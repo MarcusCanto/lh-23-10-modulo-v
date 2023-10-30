@@ -19,4 +19,8 @@ O projeto foi avaliado com base nos seguintes critérios:
 
 ### Discussões e Ajuda
 
+<<<<<<< HEAD
 Durante o desenvolvimento do projeto, houve discussões e pedidos de ajuda aos colegas, mantendo a individualidade do trabalho.
+=======
+Durante o desenvolvimento do projeto, houve discussões e pedidos de ajuda aos colegas, mantendo a individualidade do trabalho.
+>>>>>>> 3b0b1651cba623e2f50fe5445def837e63dbd744
