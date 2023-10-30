@@ -1,6 +1,6 @@
 # Airflow needs a home. `~/airflow` is the default, but you can put it
 # somewhere else if you prefer (optional)
-export AIRFLOW_HOME=./airflow-data
+export AIRFLOW_HOME=/home/marcus/code/indicium/lighthouse/airflow_tooltorial/airflow-data
 
 # Install Airflow using the constraints file
 AIRFLOW_VERSION=2.6.0
